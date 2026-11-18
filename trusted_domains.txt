@@ -1,0 +1,2 @@
+# Extra trusted registered domains, one per line (e.g. a Tranco top-10k export).
+# Lines starting with # are ignored. Do NOT add free-hosting domains (github.io, blogspot.com...).

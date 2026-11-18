@@ -1,0 +1,11 @@
+# scikit-learn MUST match the version the model was trained with (Colab: 1.6.1),
+# otherwise unpickling gives warnings or wrong predictions.
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy
+tldextract==5.4.0
+fastapi
+uvicorn[standard]
+pydantic>=2
+streamlit>=1.50
+requests
